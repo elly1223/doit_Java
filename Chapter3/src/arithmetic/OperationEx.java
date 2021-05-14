@@ -1,7 +1,5 @@
 package arithmetic;
-
 public class OperationEx {
-
 	public static void main(String[] args){
 	
 		int num1 = 10;
@@ -12,7 +10,6 @@ public class OperationEx {
 		System.out.println(num2);
 		
 		num2 = -num2;
-		System.out.println(num2);
-		
+		System.out.println(num2);		
 	}
 }
